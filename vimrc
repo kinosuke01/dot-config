@@ -17,6 +17,7 @@ endif
 
 set number
 set ruler
+set formatoptions-=ro
 syntax on
 filetype plugin on
 " filetype indent on
