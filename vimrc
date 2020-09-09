@@ -18,6 +18,7 @@ endif
 set number
 set ruler
 set formatoptions-=ro
+set fileencodings=utf-8,sjis,euc-jp,latin1
 syntax on
 filetype plugin on
 " filetype indent on
